@@ -35,7 +35,9 @@ const HeroSection = () => {
                         />
                     </h1>
                     <p className="text-base sm:text-lg mb-6 lg:text-xl">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint placeat architecto esse praesentium nam perferendis quidem delectus cumque aliquam unde corrupti, ea alias! Dolorum aspernatur at dolore sapiente sed magni!
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint placeat architecto esse
+                        praesentium nam perferendis quidem delectus cumque aliquam unde corrupti, ea alias!
+                        Dolorum aspernatur at dolore sapiente sed magni!
                     </p>
                 </div>
                 <div>
@@ -45,7 +47,7 @@ const HeroSection = () => {
                     </button>
                 </div>
                 <div className="col-span-4 place-self-center mt-4 lg:mt-0">
-                    <div className=" rounded-full bg-[#2b2b2b] w-[250px] h-[250px] lg:w-[400px] lg:h[400px] relative">
+                    <div className=" rounded-full bg-[#2b2b2b] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
                         <Image
                             src="/images/memoji.png"
                             alt="hero-image"
